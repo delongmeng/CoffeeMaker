@@ -30,7 +30,7 @@
                 cm.addInventory(amtCoffee, amtMilk, amtSugar, amtChocolate);
 
                 %>
-                <span class="font_success"><%="Inventory successfully added." %> </span><br>
+                <span class="font_success"><%="successfully added." %> </span><br>
                 <%
 
             } catch (InventoryException e) {
